@@ -22,6 +22,10 @@ running at the same time and exchange messages between them. A host and port is 
 
 ### Running
 
+Go to [src](src/) directory (to make things easier)
+
+`$ cd src`
+
 #### Server
 
 For the server, you can either run the .py file by hand or use docker for it.
